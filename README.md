@@ -8,3 +8,5 @@ Github: [link](https://github.com/eggheadio-projects/example-favorite-quotes/tre
 [01. Setting up dependencies](https://github.com/xgirma/react-testing-cookbook/tree/ch.01/chapters/ch.01)
 
 [02. Running tests](https://github.com/xgirma/react-testing-cookbook/tree/ch.02/chapters/ch.02)
+
+[03. Utility modules](https://github.com/xgirma/react-testing-cookbook/tree/ch.03/chapters/ch.03)
