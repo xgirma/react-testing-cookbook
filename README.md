@@ -5,6 +5,6 @@ Github: [link](https://github.com/eggheadio-projects/example-favorite-quotes/tre
 
 ### Contents
 
-[01. React Testing: Setting up dependencies](https://github.com/xgirma/react-testing-cookbook/tree/ch.01/chapters/ch.01)
+[01. Setting up dependencies](https://github.com/xgirma/react-testing-cookbook/tree/ch.01/chapters/ch.01)
 
 [02. Running tests](https://github.com/xgirma/react-testing-cookbook/tree/ch.02/chapters/ch.02)

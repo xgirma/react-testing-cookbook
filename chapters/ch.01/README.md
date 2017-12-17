@@ -1,4 +1,4 @@
-# React Testing: Setting up dependencies
+# Setting up dependencies
 
 Required libraries, `mocha` for running tests, `expect` for writting assertions and `ReactTestUtils` to make writting 
 test for React and JSX. 
