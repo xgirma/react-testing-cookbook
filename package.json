@@ -19,7 +19,8 @@
   "homepage": "https://github.com/xgirma/react-testing-cookbook#readme",
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-test-renderer": "^16.2.0"
   },
   "devDependencies": {
     "babel-core": "6.16.0",
