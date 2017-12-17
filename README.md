@@ -12,3 +12,5 @@ Github: [link](https://github.com/eggheadio-projects/example-favorite-quotes/tre
 [03. Utility modules](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.03)
 
 [04. Intro to Shallow Rendering](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.04)
+
+[05. JSX error diff](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.05)
