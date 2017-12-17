@@ -49,42 +49,4 @@ output
 
         npm install expect-jsx
         
-### expect-jsx
-
-`expect-jsx` API consists of four methods: `toEqualJSX, toNotEqualJSX, toIncludeJSX` and `toNotIncludeJSX`.
-
-```javascript
-expect(ReactComponent|JSX).toEqualJSX(ReactComponent|JSX)
-expect(ReactComponent|JSX).toNotEqualJSX(ReactComponent|JSX)
-expect(ReactComponent|JSX).toIncludeJSX(ReactComponent|JSX)
-expect(ReactComponent|JSX).toNotIncludeJSX(ReactComponent|JSX)
-```
-
-example: 
-
-```javascript
-import React from 'react';
-import expect from 'expect';
-import expectJSX from 'expect-jsx';
-
-expect.extend(expectJSX);
-
-class TestComponent extends React.Component {}
-
-describe('expect-jsx', () => {
-  it('works', () => {
-    expect(<div />).toEqualJSX(<div />);
-    // ok
-
-    expect(<div a="1" b="2" />).toEqualJSX(<div />);
-    // Error: Expected '<div\n  a="1"\n  b="2"\n/>' to equal '<div />'
-
-    expect(<span />).toNotEqualJSX(<div/>);
-    // ok
-
-    expect(<div><TestComponent /></div>).toIncludeJSX(<TestComponent />);
-    // ok
-  });
-});
-```
-
+NOTE: we may note need `expect-jsx` anymore. 
