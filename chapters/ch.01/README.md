@@ -11,12 +11,10 @@ import ReactTestUtils from 'react-dom/test-utils'; // ES6
 var ReactTestUtils = require('react-dom/test-utils'); // ES5 with npm
 ```
 
-# ...
+`react-addons-test-utils` is deprecated as of React version 15.5.0  
 
-1. `react-addons-test-utils` is deprecated as of React version 15.5.0  
+`TestUtils` have been moved to `react-dom/test-utils`
 
-2. `TestUtils` have been moved to `react-dom/test-utils`
-
-3. `Shallow renderer` has been moved to `react-test-renderer/shallow`
+`Shallow renderer` has been moved to `react-test-renderer/shallow`
 
 [source](react-dom/test-utils https://www.npmjs.com/package/react-addons-test-utils)
