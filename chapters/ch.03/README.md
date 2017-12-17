@@ -58,6 +58,8 @@ class AddQuote extends React.Component {
 }
 ```
 
+Now our actual value is going to be the result of using the createID module with a unique number and a description. We will expect that result to be the unique number concatenated with the first two words of the description all together in kebab-case without spaces. Now if we run our test we can see that it's passing.
+
 ```javascript
 import expect from 'expect';
 import createId from './createId';
