@@ -20,3 +20,5 @@ Github: [link](https://github.com/eggheadio-projects/example-favorite-quotes/tre
 [07. Testing className with Shallow Rendering](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.07)
 
 [08. Testing conditional className with Shallow Rendering](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.08)
+
+[09. Reusing test boilerplate](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.09)
