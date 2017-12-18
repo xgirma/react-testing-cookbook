@@ -10,7 +10,7 @@ import Icon from './Icon'
 describe('Icon', () => {
   it('should', () => {
     const renderer = new ShallowRenderer();
-    renderer.render(<Icon name={"Facebook"}/>)
+    renderer.render(<Icon name={"facebook"}/>)
     const actual = renderer.getRenderOutput()
     console.log(actual)
   });
@@ -23,7 +23,7 @@ output
   type: 'i',
   key: null,
   ref: null,
-  props: { className: 'fa fa-Facebook', style: { fontSize: '1.5rem' } },
+  props: { className: 'fa fa-facebook', style: { fontSize: '1.5rem' } },
   _owner: null,
   _store: {} }
 
