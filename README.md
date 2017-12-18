@@ -14,3 +14,5 @@ Github: [link](https://github.com/eggheadio-projects/example-favorite-quotes/tre
 [04. Intro to Shallow Rendering](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.04)
 
 [05. JSX error diff](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.05)
+
+[05. Element types with Shallow Rendering](https://github.com/xgirma/react-testing-cookbook/tree/master/chapters/ch.06)
