@@ -1,4 +1,4 @@
-# Element types with Shallow Rendering
+# Testing element types with Shallow Rendering
 When you render a component with the `Shallow Renderer`, you have `access to the underlying object`. We can write lots of useful tests to check that our components are working as expected. 
 
 In this lesson, we will use the type property on the shallow rendered component to make sure that the root element is what we expect it to be.
